@@ -29,7 +29,7 @@ Computer Engineering undergraduate @ NUS | AI & Finance | Building things that m
 |---------|-------------|-------|
 | [Veritas.ai](https://github.com/Ariff1422/Veritas.ai) | Multi-agent credit assessment tool with RAG pipeline | LangGraph, ChromaDB, Streamlit |
 | [Psonia](https://psonia-five.vercel.app) | Financial analytics platform with greedy heuristic engine | Python, PostgreSQL, React |
-| [Verialgo](https://github.com/Ariff1422/Verialgo) | Bare-metal SoC with custom FSMs and Delta Animation Buffer | Verilog, FPGA |
+| [Verialgo](https://github.com/Ariff1422/Verialgo) | Bare-metal SoC on Basys 3 — custom sort FSMs, Delta Animation Buffer, pixel-stream graphics pipeline | Verilog, VHDL, FPGA |
 
 ---
 
@@ -51,6 +51,7 @@ Computer Engineering undergraduate @ NUS | AI & Finance | Building things that m
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-FF6B6B?style=flat)
+![VHDL](https://img.shields.io/badge/VHDL-FF6B6B?style=flat)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 **Libraries & Frameworks**
